@@ -1,1 +1,1 @@
-[Strella Biotech](https://www.strellabiotech.com/).
+[![Strella Biotech](/profile/Strellabiotech.png)](https://www.strellabiotech.com/)
